@@ -4,8 +4,11 @@
 Exam contains between 40 and 60 questions 120 minutes exam time + 20 minutes setup in total 140 minutes
 
 [AZ study materials](https://learn.microsoft.com/en-us/certifications/exams/az-104/) - Official materials from Microsoft Learning
+
 [Questionnaire](https://www.examtopics.com/exams/microsoft/az-104/view/2/)- Exam questions.
+
 [Az104 Github](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator) - Official Microsoft Learning Github.
+
 [VIdeo cram](https://www.youtube.com/watch?v=VOod_VNgdJk) - John Savill's Technical Training.
 
 
@@ -13,11 +16,15 @@ Exam contains between 40 and 60 questions 120 minutes exam time + 20 minutes set
 ```####   
 Audience profile
 
-Candidates for this exam should have subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.
+Candidates for this exam should have subject matter expertise in implementing, managing,
+and monitoring an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.
 
-An Azure administrator often serves as part of a larger team dedicated to implementing an organization's cloud infrastructure. Azure administrators also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.
+An Azure administrator often serves as part of a larger team dedicated to implementing an organization's cloud infrastructure.
+Azure administrators also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.
 
-Candidates for this exam should be familiar with operating systems, networking, servers, and virtualization. In addition, professionals in this role should have experience using PowerShell, Azure CLI, the Azure portal, and Azure Resource Manager templates (ARM templates).
+Candidates for this exam should be familiar with operating systems, networking, servers, and virtualization.
+In addition, professionals in this role should have experience using PowerShell,
+Azure CLI, the Azure portal, and Azure Resource Manager templates (ARM templates).
 ```
 
 # Manage Azure identities and governance (15-20%)
